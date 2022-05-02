@@ -21,4 +21,20 @@
 </h1>
 </div>
 
-### 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l41Yvub60fF4OU15C/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> made for this world.
+
+- :telescope: I work as a Software Engineer contributing for private and public repositories.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I keep studying to keep up with this ever-changing world and read a variety of articles like tech, psychology, art, fitness and other sciences.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-manuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-garcia-cs/)
